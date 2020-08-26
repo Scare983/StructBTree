@@ -1,4 +1,4 @@
-Kevin Charles Linnane 8111908570
+Kevin Charles Linnane
 4/4/2018
 
 Primarily using recursion, a Binary Tree structure is made for storing and
